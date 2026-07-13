@@ -113,3 +113,4 @@ Belfast or remote UK
 📧 **<baabalola@gmail.com>** | 🌐 **[johnbabalola.com](https://johnbabalola.com)**
 
 **Infrastructure that is provisioned as code, shipped through a gated pipeline, observed in production and torn down cleanly.**
+
