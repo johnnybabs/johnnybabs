@@ -108,7 +108,7 @@ A public build-in-the-open roadmap through to December 2026: this portfolio site
 
 Cloud Engineer · DevOps Engineer · Site Reliability Engineer · Platform Engineer
 
-Belfast or remote UK · UK Dependent Visa, eligible to work immediately, no sponsorship required
+Belfast or remote UK 
 
 📧 **<baabalola@gmail.com>** | 🌐 **[johnbabalola.com](https://johnbabalola.com)**
 
